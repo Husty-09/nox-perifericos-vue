@@ -1,0 +1,107 @@
+{
+  "especificacoes": [
+    {
+      "id": 1,
+      "descricao": "Switch Red"
+    },
+    {
+      "id": 2,
+      "descricao": "Switch Blue"
+    },
+    {
+      "id": 3,
+      "descricao": "Sensor 16K DPI"
+    },
+    {
+      "id": 4,
+      "descricao": "Painel IPS 144Hz"
+    }
+  ],
+  "status_pedido": [
+    {
+      "id": 1,
+      "descricao": "Pagamento Aprovado"
+    },
+    {
+      "id": 2,
+      "descricao": "Em Separação"
+    },
+    {
+      "id": 3,
+      "descricao": "Enviado"
+    }
+  ],
+  "pedidos": [],
+  "adicionais": {
+    "complemento": [
+      {
+        "id": 1,
+        "nome": "Iluminação RGB",
+        "descricao": "Adiciona faixa LED RGB endereçável",
+        "foto": "",
+        "valor": 50,
+        "eh_novidade": true
+      },
+      {
+        "id": 2,
+        "nome": "Cabo Coiled",
+        "descricao": "Cabo espiralado aviador tipo-c",
+        "foto": "",
+        "valor": 80,
+        "eh_novidade": true
+      }
+    ],
+    "bebidas": [
+      {
+        "id": 1,
+        "nome": "Mousepad Extended",
+        "descricao": "Mousepad gigante 90x40cm",
+        "foto": "",
+        "valor": 120,
+        "eh_novidade": true
+      },
+      {
+        "id": 2,
+        "nome": "Suporte Articulado",
+        "descricao": "Suporte com pistão a gás",
+        "foto": "",
+        "valor": 250,
+        "eh_novidade": true
+      }
+    ]
+  },
+  "produtos_base": [
+    {
+      "id": 1,
+      "nome": "Teclado Mecânico",
+      "foto": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=400&q=80",
+      "descricao": "Teclado mecânico customizável hot-swappable.",
+      "valor": 450,
+      "eh_novidade": true
+    },
+    {
+      "id": 2,
+      "nome": "Mouse Competitivo",
+      "foto": "https://images.unsplash.com/photo-1615663245857-ac93100318e8?auto=format&fit=crop&w=400&q=80",
+      "descricao": "Mouse ultraleve para esportes eletrônicos.",
+      "valor": 350,
+      "eh_novidade": true
+    },
+    {
+      "id": 3,
+      "nome": "Monitor Ultrawide",
+      "foto": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=400&q=80",
+      "descricao": "Monitor Ultrawide 34 polegadas 144hz.",
+      "valor": 2500,
+      "eh_novidade": false
+    },
+    {
+      "id": 4,
+      "nome": "Headset 7.1",
+      "foto": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&w=400&q=80",
+      "descricao": "Headset com som surround 7.1.",
+      "valor": 600,
+      "eh_novidade": false
+    }
+  ]
+}
