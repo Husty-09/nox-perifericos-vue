@@ -54,9 +54,9 @@ if (req.ok || req.status === 201) {
 
 ## 🔗 Links Importantes
 
-- **Link da API (JSON Server Deploy):** `[Cole o link do JSON Server aqui]`
-- **Link de Produção (GitHub Pages):** `[Cole o link do GitHub Pages aqui]`
-- **Repositório Front-End:** `[Cole o link do repositório aqui]`
+- **Link da API (JSON Server Deploy):** [https://api-nox.vercel.app/](https://api-nox.vercel.app/)
+- **Link de Produção (GitHub Pages):** [https://husty-09.github.io/nox-perifericos-vue/](https://husty-09.github.io/nox-perifericos-vue/)
+- **Repositório Front-End:** [https://github.com/Husty-09/nox-perifericos-vue](https://github.com/Husty-09/nox-perifericos-vue)
 
 ## 🚀 Como Rodar Localmente
 
